@@ -24,7 +24,7 @@ import ships.Ship;
  */
 public class Main {
 	public static void main(String[] args) throws FileNotFoundException {
-		
+	
 		//
 		// Main receives two arguments: path to input file and path to output file.
 		// You can assume that they will always be provided, so no need to check them.
